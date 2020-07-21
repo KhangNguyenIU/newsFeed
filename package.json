@@ -2,9 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "engines": {
-    "node": "9.2.1"
-  },
+  
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
