@@ -25,4 +25,6 @@ const postSchema = mongoose.Schema({
   }
 })
 
+
+
 mongoose.model("Post", postSchema)
